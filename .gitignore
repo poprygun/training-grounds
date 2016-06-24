@@ -15,6 +15,7 @@ bin
 build
 lib/
 target
+application-default.properties
 .springBeans
 interpolated*.xml
 dependency-reduced-pom.xml
