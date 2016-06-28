@@ -26,6 +26,7 @@
     <modules>
         <module>dojo</module>
         <module>config-server</module>
+        <module>service-discoverer</module>
     </modules>
 
     <dependencyManagement>
